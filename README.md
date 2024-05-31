@@ -37,6 +37,7 @@
 - T (Stopped): 프로세스가 중지되었거나 트레이스/디버그 중인 상태
 - Z (Zombie): 프로세스가 종료되었지만, 부모 프로세스에 의해 아직 회수되지 않은 상태.
 - D (Uninterruptible Sleep): 프로세스가 디스크 입출력과 같은 시스템 활동에 의해 대기 상태에 있으며, interrupt 할 수 없는 상태
+<img src = "https://github.com/Peanutsoda/OPENSOURCE-SW/assets/156788371/dada647f-afc9-4923-962a-39830b296a36" width = "80%">
 
 ## 3. jobs
 > 현재 쉘에서 실행 중인 작업들의 목록을 보여주는 명령어
