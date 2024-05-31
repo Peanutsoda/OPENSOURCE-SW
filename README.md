@@ -55,10 +55,22 @@
 > 1번 작업이 다시 시작된다.
 
 ## 4. kill
-> 
+> 프로세스를 종료하는 명령어
+
+`kill [option] <process ID>`
+
+#### kill 명령어의 주요 option
+- -s <signal> : 특정 시그널(signal)을 사용하여 프로세스를 종료한다.
+- -l, --list : 지원되는 시그널(signal) 목록을 출력한다.
+- -a, --all : 현재 사용자에 속한 모든 프로세스를 종료한다.
+- -q, --queue : 프로세스에 시그널을 보내는 대신 시그널을 대기열에 추가한다.
+
+> kill 명령어는 간단하고 빠르게 프로세스를 종료할 수 있지만
+>
+> 잘못 사용하면 의도치 않은 프로세스 종료될 수 있고, 데이터 손실 등의 문제가 발생할 수 있다.
 
 ## 참고 자료
-
 <https://terms.naver.com/entry.naver?docId=4125861&cid=59321&categoryId=59321>
 <https://terms.naver.com/entry.naver?docId=4125773&cid=59321&categoryId=59321>](https://bluesharehub.com/linux-ps-command/>
 <https://blog.naver.com/rfs2006/223231213559>
+<https://gr-st-dev.tistory.com/210>
