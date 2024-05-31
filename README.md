@@ -71,6 +71,7 @@
 
 ## 참고 자료
 <https://terms.naver.com/entry.naver?docId=4125861&cid=59321&categoryId=59321>
-<https://terms.naver.com/entry.naver?docId=4125773&cid=59321&categoryId=59321>](https://bluesharehub.com/linux-ps-command/>
+<https://terms.naver.com/entry.naver?docId=4125773&cid=59321&categoryId=59321>
+<https://bluesharehub.com/linux-ps-command/>
 <https://blog.naver.com/rfs2006/223231213559>
 <https://gr-st-dev.tistory.com/210>
